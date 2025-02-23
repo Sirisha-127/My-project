@@ -35,5 +35,3 @@ cd project-folder
 pip install -r requirements.txt  
 python main.py
 
-Updating your **README** will make your project more professional and help you get noticed on LinkedIn! Let me know if you need help refining it.
-
