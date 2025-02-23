@@ -24,7 +24,7 @@ This project aims to develop an AI model that can help detect diabetes risk effi
 4. Insights & Conclusion  
 
 ## Results  
-- Best Model: Random Forest (Accuracy: 71%)  
+- Best Model: Random Forest (Accuracy: 82%)  
 - Key Insight: Glucose levels and BMI are strong indicators of diabetes risk.  
 
 ## How to Run  
