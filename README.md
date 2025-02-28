@@ -1,6 +1,6 @@
  My-project
 
-AI Healthcare Project: Diabetes Prediction
+Healthcare Project: Diabetes Prediction
 
 Overview
 
